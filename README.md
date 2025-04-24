@@ -23,10 +23,10 @@ This repository contains implementations of three machine learning models using 
 * Dataset: Wholesale customers dataset (UCI Machine Learning Repository).
 * Model: KMeans clustering.
 * Key Steps:
- * Spark session initialization.
- * Load the customer dataset.
- * Assembled numerical features using VectorAssembler.
- * Trained a KMeans model to cluster customer types.
- * Predicted clusters for each customer.
- * Evaluated using Silhouette Score.
- * Displayed cluster centers.
+  * Spark session initialization.
+  * Load the customer dataset.
+  * Assembled numerical features using VectorAssembler.
+  * Trained a KMeans model to cluster customer types.
+  * Predicted clusters for each customer.
+  * Evaluated using Silhouette Score.
+  * Displayed cluster centers.

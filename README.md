@@ -3,7 +3,7 @@
 This repository contains implementations of three machine learning models using Apache Spark and PySpark MLlib. Each notebook demonstrates a specific ML task: classification, clustering, and recommendation.
 
 # Files Overview
-## 1. Classification Model (classification_model.ipynb)
+### 1. Classification Model (classification_model.ipynb)
 Implements a classification model using Spark's MLlib.
 Dataset: Titanic dataset (from Kaggle or open source).
 Model: Random Forest.
